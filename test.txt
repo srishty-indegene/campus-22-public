@@ -1,1 +1,2 @@
-Test file
+Starting with Git Command
+-- git clone <remote-repo--url>
