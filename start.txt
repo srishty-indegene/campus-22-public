@@ -1,0 +1,2 @@
+starting with  git command
+-- git clone <remote-rep-url>
